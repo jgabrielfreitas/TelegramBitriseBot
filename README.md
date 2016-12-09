@@ -1,3 +1,5 @@
+![bit_rise_logo](https://github.com/jgabrielfreitas/TelegramBitriseBot/blob/master/bitrise-logo.png)
+
 # Telegram BitriseBot
 > bot to work with CI and CD status on Telegram
 
